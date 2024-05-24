@@ -11,9 +11,7 @@ Yes, Because There Some Skids Still our code u can find on dat mod channel, And 
 its Has 4 Versions Like
 - Zxveo V1
 - Zxveo V2
-So i thought i make last Version of it
 - Zxveo V3
-i Thought Something else nah im still update my obf really im proud of myself to make a obf so, im currently making a latest Version
 - Zxveo V4
 # Credits
 Created By SumitScripts 
