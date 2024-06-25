@@ -8,11 +8,12 @@ Zxveo Made by SumitScripts With No Team, Zxveo is A Discord Bot Who Obfuscated L
 Yes, Because There Some Skids Still our code u can find on dat mod channel, And Why i make my own i said i cannot copy large code in tablet or pc...
 
 #### Versions
-its Has 4 Versions Like
+New V2.0 Version
 - Zxveo V1
 - Zxveo V2
 - Zxveo V3
 - Zxveo V4
+- Zxveo V2.0
 # Credits
 Created By SumitScripts 
 
